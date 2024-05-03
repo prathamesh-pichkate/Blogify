@@ -1,0 +1,2 @@
+-For hashing the password we use the crypto.
+-For comparing the users password and  stored password we should convert first into hashed and tencompare with the hased password.(use the virtual function).
